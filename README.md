@@ -1,1 +1,0 @@
-# kepler-10b-transit-analysis
